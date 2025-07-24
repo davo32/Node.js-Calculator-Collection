@@ -4,7 +4,7 @@
 
 - **indexRL.js** – CLI calculator using Node.js readline.
 - **indexInquirer.js** – CLI calculator using Inquirer.js prompts.
-- **indexGUI.html** – (Planned) Browser-based GUI calculator.
+- **indexGUI.html** – Browser-based GUI calculator.
 
 ## Running
 
